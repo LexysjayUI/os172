@@ -1,1 +1,3 @@
 #lexysjayUI
+
+We study OS for knowing more in detail computer architecure like memory management, addresing and pointer, virtual memory, synchronization, scheduling algorithms, file system etc that will be useful to make higher performance in doing some instruction by CPU/computer/server. 
