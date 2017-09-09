@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 lexys.jayanta StafCS 4096 Sep  9 13:37 .
+drwx--x--x  4 lexys.jayanta StafCS 4096 Sep  9 13:33 ..
+drwxr-xr-x  8 lexys.jayanta StafCS 4096 Sep  9 13:35 .git
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:09 key
+-rw-r--r--  1 lexys.jayanta StafCS    0 Sep  9 13:37 lab01.txt
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:22 log
+-rw-r--r--  1 lexys.jayanta StafCS    7 Sep  4 23:39 README.md
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 13:29 sandbox
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 13:33 week00
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:16 week01
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:17 week02
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:17 week03
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:17 week04
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:18 week05
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:18 week06
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:18 week07
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:19 week08
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:19 week09
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:21 week10
+drwxr-xr-x  2 lexys.jayanta StafCS 4096 Sep  9 09:23 xtra
+/home/fasilkom/mahasiswa/l/lexys.jayanta/os172/week01
