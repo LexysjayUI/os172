@@ -1,0 +1,18 @@
+#Lexys_Jayanta
+
+1. How to clone git repository
+2. Make directory using: mkdir <name>
+3. Listing : ls -al
+4. Change current directory: cd <destination>
+5. Create file from nothingness: touch <file_name>
+6. Go to previous dir: cd ..
+7. Push reposritory in github:
+  - git add . --> to add all files
+  - git status --> to get status
+  - git commit -m 'description of what changed'
+  - git pull --> to know that local repository using the latest git's repo
+  - git push --> to push changes in local to git repo
+8. Pull in github:
+  - go todirectory you want to pull/update
+  - git pull
+9. How to use editor vi
