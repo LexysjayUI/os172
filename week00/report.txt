@@ -1,4 +1,21 @@
 #Lexys_Jayanta
 
-
-Let's learn OS
+Summary from task Week00:
+1. Make log for what I've learnt every week, submitted every end of week in folder log.
+2. SOP login to Badak server and Kawung
+3. How to clone git repository
+4. Make directory using: mkdir <name>
+5. Listing : ls -al
+6. Change current directory: cd <destination>
+7. Create file from nothingness: touch <file_name>
+8. Go to previous dir: cd ..
+9. Push reposritory in github:
+  - git add . --> to add all files
+  - git status --> to get status
+  - git commit -m 'description of what changed'
+  - git pull --> to know that local repository using the latest git's repo
+  - git push --> to push changes in local to git repo
+10. Pull in github:
+  - go todirectory you want to pull/update
+  - git pull
+11. How to use editor vi

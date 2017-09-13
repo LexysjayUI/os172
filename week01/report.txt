@@ -1,3 +1,5 @@
+#Lexys_Jayan
+yanta@badak:~/os172/week01$ vi report.txt
 #Lexys_Jayanta
 
 1. How to clone git repository
@@ -15,4 +17,5 @@
 8. Pull in github:
   - go todirectory you want to pull/update
   - git pull
-9. How to use editor vi
+9. How to use editor vi 
+
