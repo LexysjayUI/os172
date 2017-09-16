@@ -1,3 +1,5 @@
+w01-170909-23_LR-About: Regex From internet and youtube
+w01-170909-22-LR-About: Scripting From Lecturer and Internet
 w01-170809-22-LR-About: Review week00 and week01 From Lecturer
 w01-170909-21-LR-About: Trying again task lab01 From Lecturer
 w01-170909-20-LR-About: Trying again task lab01 From Lecturer
